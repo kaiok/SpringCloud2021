@@ -13,6 +13,7 @@
 
     <dependencies>
         <!--将模块注册进Eureka所需依赖-->
+        <!--Eureka中自带ribbon负载均衡的功能-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
