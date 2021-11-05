@@ -1,0 +1,5 @@
+com\kais\springcloud\PaymentMain8002.class
+com\kais\springcloud\controller\PaymentController.class
+com\kais\springcloud\service\impl\PaymentServiceImpl.class
+com\kais\springcloud\dao\PaymentDao.class
+com\kais\springcloud\service\PaymentService.class

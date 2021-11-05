@@ -1,0 +1,4 @@
+com\kais\springcloud\OrderFeignMain80.class
+com\kais\springcloud\cfgbeans\FeignConfig.class
+com\kais\springcloud\controller\OrderFeignController.class
+com\kais\springcloud\service\PaymentFeignService.class

@@ -1,0 +1,4 @@
+com\kais\springcloud\myRule\MySelfRule.class
+com\kais\springcloud\OrderMain80.class
+com\kais\springcloud\config\ApplicationContextConfig.class
+com\kais\springcloud\Controller\OrderController.class
